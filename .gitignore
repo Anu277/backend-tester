@@ -1,0 +1,5 @@
+client/node_modules
+client/zip builds
+
+api/node_modules
+node_modules/
